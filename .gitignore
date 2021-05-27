@@ -1,7 +1,8 @@
-# Ignore all text files
+# All text files
 *.txt
 
+# Specific note file
 *SQL_notes
 
-# Ignore Mac system files
+# Mac system files
 .DS_store
